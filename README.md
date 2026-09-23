@@ -40,7 +40,3 @@ Yong'oq daraxti hosil berishi uchun quyidagi shartlar zarur:
 ## Xulosa
 
 Yong'oq daraxti 0 dan — urug'dan boshlab — to'liq hosil beradigan daraxtgacha 10–15 yil vaqt talab qiladi. Bu sabr, mehnat va to'g'ri parvarishni talab qiladigan uzoq jarayon. Ammo bir marta o'sib ulg'aygan yong'oq daraxti o'nlab yillar davomida hosil beradi, avlodlarga meros bo'lib qoladi. Shuning uchun yong'oq ekish — bu nafaqat bugungi kun, balki kelajak avlodlar uchun qilingan sarmoyadir. Tabiatning sabri va inson mehnati birlashganda, oddiy urug'dan mo''jizaviy daraxt o'sadi.
-
----
-
-Agar xohlasangiz, bu essayni **maktab uchun qisqaroq**, **ilmiy maqola uslubida**, yoki **slayd taqdimoti** shaklida ham yozib bera olaman. Qaysi format kerak?
