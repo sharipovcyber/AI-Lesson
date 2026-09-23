@@ -1,5 +1,5 @@
 # AI-Lesson
-about AI
+1-lesson
 # Yong'oq daraxtining o'sishi va hosil berishi
 
 ## Kirish
